@@ -1,0 +1,6 @@
+{
+  "name": "AudioPen",
+  "description": "Transform messy voice notes into clear, structured writing and brainstorm ideas with a conversational AI agent via voice & text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
